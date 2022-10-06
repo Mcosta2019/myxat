@@ -43,7 +43,7 @@ aside{
 .jd__box{
     width:220px;
     height:40px;
-    margin:30px 20px;
+    margin:80px 20px;
     display:flex;
     -webkit-box-reflect:below 5px linear-gradient(transparent, #0003);
     box-reflect:below 5px linear-gradient(transparent, #0003);
